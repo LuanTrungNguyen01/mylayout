@@ -17,9 +17,28 @@
     padding-bottom: 30px;
 }
 
+.pagegame {
+    text-align: center;
+    padding-top: 30px;
+    color: brown;
+}
+
 .game {
     text-align: center;
     font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.contentgame {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: brown;
+}
+
+.contentgame2 {
+    padding-left: 30px;
+    padding-top: 30px;
+    color: brown;
     padding-bottom: 10px;
 }
 
@@ -27,6 +46,16 @@
     text-align: center;
     padding-top: 5px;
     font-size: 12px;
+}
+
+.description2 {
+    font-size: 12px;
+}
+
+.description3 {
+    font-size: 12px;
+    padding-left: 30px;
+    padding-top: 20px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
